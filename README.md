@@ -12,4 +12,4 @@ Columns:
 contains R code for state-aware evaluation (corr with user satisfaction, see Section 2.3 in paper). 
 
 ## state_prediction.ipynb
-contains source code used for predicting (classifying) search state based on pre-computed features.
+contains source code used for predicting (classifying) search state based on pre-computed features (see Section 2.2 in paper).
